@@ -21,7 +21,7 @@ class OKXRacer:
         self.account = session_name + '.session'
         self.account_info = None
         if random.random() < 0.35:
-            self.rn = 'linkCode_26194459'
+            self.rn = 'linkCode_122847030'
         else:
             self.rn = config.INVITE_CODE
         self.thread = thread
